@@ -11,3 +11,5 @@ Tailwind CSS
 ## React Tools
 Axios
 React Icons
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/738d4e2e-3770-4908-bc8a-5e414e1d5758/deploy-status)](https://app.netlify.com/sites/gaemeview/deploys)
