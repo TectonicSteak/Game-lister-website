@@ -4,8 +4,6 @@ import { HiMagnifyingGlass,HiMoon,HiSun } from "react-icons/hi2";
 import { ThemeContext } from '../context/ThemeContext';
 
 function Header() {
-  const [toggle,setToggle] = useState(false)
-
   const {theme,setTheme} = useContext(ThemeContext)
 
   useEffect(()=>{
